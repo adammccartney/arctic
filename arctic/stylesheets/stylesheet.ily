@@ -57,7 +57,7 @@
         \center-align {
             \override #'(font-name . "Palatino Italic")
             \fontsize #12
-            "arctic"
+            "rill"
             \vspace #1.25
             \override #'(font-name . "Palatino Italic")
             \fontsize #5

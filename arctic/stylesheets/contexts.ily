@@ -1,4 +1,4 @@
-% arctic (2020)
+% rill (2020)
 \include "/home/adam/mccartney/mccartney/lilypond/mccartney.ily"
 
 

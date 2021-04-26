@@ -2,7 +2,7 @@
 import setuptools
 
 
-install_requires = ["abjad", "mypy", "roman", "pytest"]
+install_requires = ["abjad==3.2", "mypy", "roman", "pytest"]
 
 keywords = [
     "abjad",

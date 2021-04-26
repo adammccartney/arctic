@@ -12,12 +12,21 @@ You can use the password svalbard to watch the full film
 
 
 
-# installation 
+## installation 
+
+It's a bit hacky but...
 
 ```
 git clone git@github.com:adammccartney/arctic.git
 cd arctic
+python setup.py bdist_wheel
 pip install -e .
-
-
 ```
+
+## building the score
+
++ Todo: refactor so that it can be built with abjad 3.3
+  - fix formatting from markups
++ Todo: remove dependencies on mccartney (restucture stylesheets like rill)
++ Todo: copy structure of makefile targets from rill
+
