@@ -18,7 +18,7 @@ if __name__ == "__main__":
         author_email="adam@mur.at",
         install_requires=install_requires,
         keywords=", ".join(keywords),
-        name="arctic (erosion)",
+        name="arctic",
         packages=["arctic"],
         platforms="Any",
         url="https://github.com/adammccartney/arctic",
